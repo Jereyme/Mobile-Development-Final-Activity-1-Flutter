@@ -12,4 +12,4 @@ Command: flutter run
 
 Scenario: BlueService is an app which enables a user to access a range of qualified service providers and book into domestic repair and maintenance appointments by using a secure log-in facility.
 
-Progress: I watch some yt video on how to download flutter and android studio, downloading it was kinda easy, but the challenges I encounter is running it to android studio as I always keep getting an error whenever I enter (flutter run).
+Progress: I watch some yt video on how to download flutter and android studio, downloading it was kinda easy, but the challenges I encounter is running it to android studio as I always keep getting an error whenever I enter (flutter run), and lastly copying the actual design created in figma is mostly hard because the design were created in canva and then added it to figma by pasting it to figma.
